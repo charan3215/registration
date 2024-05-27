@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "charan",
+      "phno": "9573995845",
+      "pass": "#Charan3215",
+      "id": "1"
+    },
+    {
+      "name": "mallesh",
+      "phno": "9949106440",
+      "pass": "#Mallesh420",
+      "id": "2"
+    },
+    {
+      "name": "siva",
+      "phno": "9876541023",
+      "pass": "#Siva9876",
+      "id": "3"
+    },
+    {
+      "name": "saicharan",
+      "phno": "9573995845",
+      "pass": "#Charan3215",
+      "id": "4"
+    },
+    {
+      "name": "charan",
+      "email": {
+        "0": {},
+        "1": {}
+      },
+      "phno": "9638527410",
+      "pass": "#Charan3",
+      "id": "5"
+    },
+    {
+      "name": "sai charan",
+      "email": "charan3@gmail.com",
+      "phone no": "9573995845",
+      "password": "#Charan3",
+      "id": "6"
+    },
+    {
+      "id": "9fc3",
+      "name": "kumar",
+      "email": "kumar07@gmail.com",
+      "phno": "9573995845",
+      "pass": "#Kumar07"
+    }
+  ]
+}
